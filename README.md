@@ -29,19 +29,20 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </span>  
 
-</div>---
+</div>
+---
 
-## 🛠️ Projects  
-🔹 **Inventory Management System** – Streamlining stock & inventory tracking.  
-🔹 **Movie Ticket Application** – Online movie ticket booking system.  
+## 🛠️ Projects
+🔹 Inventory Management System – A robust solution for efficient stock tracking, real-time inventory updates, and seamless order management.
+🔹 Movie Ticket Booking App – A user-friendly platform for hassle-free movie ticket reservations with seat selection and payment integration. 
 
-📌 Check out my repos 👉 [GitHub Repositories](https://github.com/your-username)  
+📌 Check out my repos 👉 [GitHub Repositories](https://github.com/Balakumaran1109?tab=repositories)  
 
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://www.linkedin.com/in/balakumaran-g-166430330/)  
+[![Portfolio](https://balakumaran1109.netlify.app/)  
 
 ✨ _Thanks for visiting my profile!_ 🚀  
 
