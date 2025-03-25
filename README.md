@@ -1,11 +1,10 @@
 <h1 align="center">👨‍💻 Balakumaran G | Full Stack Developer</h1>
 
----
-
 <p align="center">
 🔹 Full Stack Developer | MERN Stack  
 🔹 Passionate about Web Development & Open Source  
 </p><br>
+
 
 <h2 align="center">🛠️ Stack I Work With</h2>
   
