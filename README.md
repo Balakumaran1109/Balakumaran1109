@@ -30,7 +30,6 @@
 </span>  
 
 </div>
----
 
 ## 🛠️ Projects
 🔹 Inventory Management System – A robust solution for efficient stock tracking, real-time inventory updates, and seamless order management.
@@ -41,8 +40,8 @@
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/balakumaran-g-166430330/)  
-[![Portfolio](https://balakumaran1109.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran-g-166430330/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white)](https://balakumaran1109.netlify.app/)  
 
-✨ _Thanks for visiting my profile!_ 🚀  
+✨ _Thanks for visiting my profile!_ 
 
