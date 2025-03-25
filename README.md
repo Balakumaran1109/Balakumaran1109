@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Balakumaran G!</h1>
+<h1 align="center">👨‍💻 Balakumaran G | Full Stack Developer</h1>
 
 <p align="center">
 🔹 Full Stack Developer | MERN Stack  
