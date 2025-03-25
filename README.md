@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </span>  
 
-</div>
+</div><br><br>
 
 <h2 align="center">🏆 My Recent Projects</h2>
 
