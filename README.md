@@ -29,9 +29,10 @@
 
 </div>
 
-## 🛠️ Projects
-🔹 Inventory Management System – A robust solution for efficient stock tracking, real-time inventory updates, and seamless order management.
-🔹 Movie Ticket Booking App – A user-friendly platform for hassle-free movie ticket reservations with seat selection and payment integration. 
+### 🏆 My Recent Projects  
+
+📌 **Inventory Management System** – Smart stock tracking & inventory handling.  
+📌 **Movie Ticket Booking App** – A seamless online ticket booking experience. 
 
 📌 Check out my repos 👉 [GitHub Repositories](https://github.com/Balakumaran1109?tab=repositories)  
 
