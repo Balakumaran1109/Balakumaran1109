@@ -31,18 +31,21 @@
 
 <h2 align="center">🏆 My Recent Projects</h2>
 
-<p align="center">
-📌 <strong>Inventory Management System</strong> – Smart stock tracking & inventory handling.<br>
-📌 <strong>Movie Ticket Booking App</strong> – A seamless online ticket booking experience.<br><br>
-📌 Check out my repos 👉 <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub Repositories</a>.
-</p>
+<div align="center">
+  <div align="left">
+    📌 <strong>Inventory Management System</strong> – Smart stock tracking & inventory handling.<br>
+    📌 <strong>Movie Ticket Booking App</strong> – A seamless online ticket booking experience.<br><br>
+    📌 Check out my repos 👉 <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub Repositories</a>.
+  </div>
+</div>
+
   
 
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran-g-166430330/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white)](https://balakumaran1109.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran-g-166430330/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white)](https://balakumaran1109.netlify.app/)
+  
 
 ✨ _Thanks for visiting my profile!_ 
 
