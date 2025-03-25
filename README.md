@@ -4,7 +4,6 @@
 🔹 Full Stack Developer | MERN Stack  
 🔹 Passionate about Web Development & Open Source  
 </p>
-
 ## <h2 align="center">🛠️ Stack I Work With</h2>
   
 <div align="center">
