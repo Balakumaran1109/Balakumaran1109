@@ -7,7 +7,7 @@
 🔹 Passionate about Web Development & Open Source  
 </p><br>
 
-##<h2 align="center">🛠️ Stack I Work With</h2>
+<h2 align="center">🛠️ Stack I Work With</h2>
   
 <div align="center">
 
