@@ -29,12 +29,14 @@
 
 </div>
 
-### 🏆 My Recent Projects  
+<h2 align="center">🏆 My Recent Projects</h2>
 
-📌 **Inventory Management System** – Smart stock tracking & inventory handling.  
-📌 **Movie Ticket Booking App** – A seamless online ticket booking experience. 
-
-📌 Check out my repos 👉 [GitHub Repositories](https://github.com/Balakumaran1109?tab=repositories)  
+<p align="center">
+📌 <strong>Inventory Management System</strong> – Smart stock tracking & inventory handling.<br>
+📌 <strong>Movie Ticket Booking App</strong> – A seamless online ticket booking experience.<br><br>
+📌 Check out my repos 👉 <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub Repositories</a>.
+</p>
+  
 
 ---
 
