@@ -53,10 +53,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-
-
   
 
-✨ _Thanks for visiting my profile!_ 
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
 
