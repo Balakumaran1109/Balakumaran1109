@@ -43,8 +43,17 @@
 
 ---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran-g-166430330/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white)](https://balakumaran1109.netlify.app/)
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/balakumaran-g-166430330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://balakumaran1109.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=codeforces&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 
 
   
